@@ -1,0 +1,14 @@
+{
+  "name": "design-taste-frontend",
+  "owner": {
+    "name": "Tenacity Inc"
+  },
+  "plugins": [
+    {
+      "name": "design-taste-frontend",
+      "source": "./plugins/design-taste-frontend",
+      "description": "Anti-slop frontend design skill for landing pages, portfolios, and redesigns.",
+      "version": "0.1.0"
+    }
+  ]
+}
